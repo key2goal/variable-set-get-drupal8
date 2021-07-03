@@ -1,0 +1,4 @@
+name: Variable GET SET
+description: Example of variable set and get drupal 8 key2goal
+core: 8.x
+type: module

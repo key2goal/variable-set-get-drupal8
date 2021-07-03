@@ -1,0 +1,7 @@
+variable_get_set.form:
+ path: 'variable-get-set'
+ defaults:
+  _form: '\Drupal\variable_get_set\Form\VariableForm'
+  _title: 'Variable GET SET'
+ requirements:
+   _permission: 'access content'
